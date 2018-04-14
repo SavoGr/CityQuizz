@@ -1,0 +1,12 @@
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\bin\Debug\CityQuizz.exe
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\bin\Debug\CityQuizz.pdb
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.csprojResolveAssemblyReference.cache
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.Form1.resources
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.Properties.Resources.resources
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.csproj.GenerateResource.cache
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.csproj.CoreCompileInputs.cache
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.exe
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.pdb
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\bin\Debug\CityQuizz.exe.config
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Savoo\source\repos\CityQuizzSol\CityQuizz\obj\Debug\CityQuizz.csproj.CopyComplete
